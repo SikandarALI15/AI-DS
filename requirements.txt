@@ -1,8 +1,4 @@
-tensorflow
-fastapi
-uvicorn
-python-multipart
-pillow
-numpy
-streamlit
-requests
+streamlit>=1.36,<2.0
+tensorflow>=2.16,<2.20
+numpy>=1.26,<3.0
+Pillow>=10.0
